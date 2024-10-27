@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/search": "pages/search.js",
+  "/": "pages/index.js",
+  "/buyer/orders": "pages/buyer/orders.js",
+  "/logout": "pages/logout.js",
+  "/seller": "pages/seller.js",
+  "/seller/gigs/create": "pages/seller/gigs/create.js",
+  "/seller/orders": "pages/seller/orders.js",
+  "/seller/gigs": "pages/seller/gigs.js"
+}
