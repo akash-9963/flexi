@@ -4,9 +4,9 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: "http",
-        hostname: "localhost",
-        port: "8747",
+        protocol: "https",
+        hostname: "flexi-phi.vercel.app",
+        port: "",
       },
     ],
   },
